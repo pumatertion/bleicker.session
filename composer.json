@@ -14,12 +14,12 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Bleicker\\Authentication\\": "src"
+			"Bleicker\\Session\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Tests\\Bleicker\\Authentication\\": "tests"
+			"Tests\\Bleicker\\Session\\": "tests"
 		}
 	}
 }
