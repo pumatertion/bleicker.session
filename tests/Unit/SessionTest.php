@@ -15,6 +15,7 @@ class SessionTest extends UnitTestCase {
 	 * @test
 	 */
 	public function sessionTest() {
+		$this->markTestIncomplete('No tests needed here. Its just a wrapper of symfony session');
 		$this->assertTrue(TRUE);
 	}
 }
