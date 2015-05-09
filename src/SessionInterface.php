@@ -11,4 +11,6 @@ use Symfony\Component\HttpFoundation\Session\SessionInterface as SessionInterfac
  */
 interface SessionInterface extends SessionInterfaceOrigin {
 
+
+
 }
